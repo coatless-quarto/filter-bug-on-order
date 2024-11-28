@@ -1,0 +1,11 @@
+---
+title: "Astdemo Example"
+filters:
+  - astdemo
+---
+
+## Heading
+
+This filter adds formatting to heading text.
+
+
